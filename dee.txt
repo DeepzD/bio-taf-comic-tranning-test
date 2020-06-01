@@ -11,3 +11,5 @@ if(made changes from thirst branch)
 <!-------------Edits from here-------------
 
  --- changes effective only for Kotthu branch ---------------------!>
+
+More changes affect only for the Nai Miris
