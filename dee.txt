@@ -3,3 +3,6 @@ Deepika
 favorite samosa
 
 Are you thirsty
+
+if(made changes from thirst branch)
+ able see this changes when only select the thirsty branch
